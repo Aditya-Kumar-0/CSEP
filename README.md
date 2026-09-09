@@ -27,4 +27,12 @@ This is my first git repository.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
