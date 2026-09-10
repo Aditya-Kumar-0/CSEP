@@ -10,6 +10,7 @@ This is my first git repository.
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -30,9 +31,18 @@ This is my first git repository.
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
