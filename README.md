@@ -31,6 +31,7 @@ This is my first git repository.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0237-delete-node-in-a-linked-list) |
@@ -42,6 +43,7 @@ This is my first git repository.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
