@@ -10,20 +10,18 @@
  */
 class Solution {
 public:
+
+    ListNode* reverse(ListNode* curr, ListNode* prev){
+        if(curr==NULL){
+            return prev;
+        }
+
+        ListNode* next = curr->next;
+        curr->next = prev;
+        return reverse(next,curr);
+    }
+
     ListNode* reverseList(ListNode* head) {
-        vector<int>ans;
-        ListNode* temp = head;
-        while(temp!=NULL){
-            ans.push_back(temp->val);
-            temp = temp->next;
-        }
-        int i=ans.size()-1;
-        ListNode*temp1 = head;
-        while(temp1!=NULL){
-            temp1 -> val = ans[i];
-            temp1 = temp1->next;
-            i--;
-        }
-        return head;
+        return reverse(head,NULL);
     }
 };
