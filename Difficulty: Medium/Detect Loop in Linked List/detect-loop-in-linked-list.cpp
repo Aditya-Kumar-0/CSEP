@@ -13,15 +13,15 @@ class Node {
 class Solution {
   public:
     bool detectLoop(Node* head) {
-        // code here
-        Node* slow = head;
-        Node* fast = head;
-        
-        while(fast && fast->next){
-            slow = slow->next;
-            fast = fast->next->next;
-            if(slow==fast)
-            return 1;
+        Node* curr = head;
+        unordered_map<Node*,bool>visited;
+        while(curr){
+            if(visited[curr] == 1){
+                return 1;
+                
+            }
+            visited[curr] = 1;
+            curr = curr->next;
         }
         return 0;
     }
