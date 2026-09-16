@@ -57,4 +57,16 @@ This is my first git repository.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
