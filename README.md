@@ -6,6 +6,7 @@ This is my first git repository.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ This is my first git repository.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0876-middle-of-the-linked-list) |
