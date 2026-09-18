@@ -9,6 +9,7 @@ This is my first git repository.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
+| [1480-running-sum-of-1d-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,8 @@ This is my first git repository.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
