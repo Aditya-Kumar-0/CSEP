@@ -80,4 +80,16 @@ This is my first git repository.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
