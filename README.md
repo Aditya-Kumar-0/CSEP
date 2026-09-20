@@ -8,6 +8,7 @@ This is my first git repository.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0027-remove-element) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
@@ -115,6 +116,7 @@ This is my first git repository.
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
