@@ -8,6 +8,7 @@ This is my first git repository.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1480-running-sum-of-1d-array) |
@@ -101,4 +102,8 @@ This is my first git repository.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
