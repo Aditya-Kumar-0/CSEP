@@ -10,6 +10,7 @@ This is my first git repository.
 | [0027-remove-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -19,6 +20,7 @@ This is my first git repository.
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,6 +29,7 @@ This is my first git repository.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +97,7 @@ This is my first git repository.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -106,4 +110,9 @@ This is my first git repository.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
