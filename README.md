@@ -23,6 +23,7 @@ This is my first git repository.
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +83,7 @@ This is my first git repository.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0020-valid-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
