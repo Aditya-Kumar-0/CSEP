@@ -88,6 +88,7 @@ This is my first git repository.
 | [0020-valid-parentheses](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0415-add-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2785-sort-vowels-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/2785-sort-vowels-in-a-string) |
 ## Stack
@@ -108,10 +109,12 @@ This is my first git repository.
 | ------- |
 | [0258-add-digits](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
