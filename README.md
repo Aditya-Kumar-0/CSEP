@@ -34,6 +34,7 @@ This is my first git repository.
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
+| [2785-sort-vowels-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -88,6 +89,7 @@ This is my first git repository.
 | [0125-valid-palindrome](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2785-sort-vowels-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/2785-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
