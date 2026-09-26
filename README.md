@@ -15,6 +15,7 @@ This is my first git repository.
 | [0283-move-zeroes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1480-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
