@@ -14,6 +14,7 @@ This is my first git repository.
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -137,6 +138,7 @@ This is my first git repository.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0704-binary-search) |
 ## Greedy
 |  |
