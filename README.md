@@ -75,6 +75,7 @@ This is my first git repository.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0142-linked-list-cycle-ii) |
@@ -93,6 +94,7 @@ This is my first git repository.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0415-add-strings) |
@@ -148,4 +150,20 @@ This is my first git repository.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
