@@ -98,6 +98,7 @@ This is my first git repository.
 | [0125-valid-palindrome](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0415-add-strings) |
+| [0686-repeated-string-match](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0686-repeated-string-match) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2785-sort-vowels-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/2785-sort-vowels-in-a-string) |
 ## Stack
@@ -154,16 +155,20 @@ This is my first git repository.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
