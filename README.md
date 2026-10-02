@@ -17,6 +17,7 @@ This is my first git repository.
 | [0283-move-zeroes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -146,6 +147,7 @@ This is my first git repository.
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1539-kth-missing-positive-number) |
 ## Greedy
 |  |
