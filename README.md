@@ -17,6 +17,7 @@ This is my first git repository.
 | [0283-move-zeroes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1539-kth-missing-positive-number) |
@@ -85,6 +86,7 @@ This is my first git repository.
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -129,6 +131,7 @@ This is my first git repository.
 | ------- |
 | [0258-add-digits](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
 ## Number Theory
 |  |
 | ------- |
@@ -138,6 +141,7 @@ This is my first git repository.
 | ------- |
 | [0136-single-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,4 +181,8 @@ This is my first git repository.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0686-repeated-string-match) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
