@@ -21,6 +21,7 @@ This is my first git repository.
 | [0875-koko-eating-bananas](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -185,4 +186,5 @@ This is my first git repository.
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
+| [1572-matrix-diagonal-sum](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
