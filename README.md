@@ -16,6 +16,7 @@ This is my first git repository.
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0875-koko-eating-bananas) |
@@ -132,6 +133,7 @@ This is my first git repository.
 | ------- |
 | [0258-add-digits](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
 ## Number Theory
 |  |
@@ -185,6 +187,7 @@ This is my first git repository.
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
