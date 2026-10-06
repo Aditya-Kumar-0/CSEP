@@ -143,6 +143,7 @@ This is my first git repository.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
 ## Binary Search
@@ -151,6 +152,7 @@ This is my first git repository.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0704-binary-search) |
@@ -190,4 +192,12 @@ This is my first git repository.
 | [0566-reshape-the-matrix](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1572-matrix-diagonal-sum) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
