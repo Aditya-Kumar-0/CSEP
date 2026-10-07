@@ -112,6 +112,7 @@ This is my first git repository.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
@@ -195,9 +196,15 @@ This is my first git repository.
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0222-count-complete-tree-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
