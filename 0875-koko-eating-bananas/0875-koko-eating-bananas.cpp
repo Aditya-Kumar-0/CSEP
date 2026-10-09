@@ -5,17 +5,14 @@ public:
         int start = 1;
         int end = 0;
         int n = piles.size();
-
-        for(int i = 0; i < n; i++) {
-            end = max(end, piles[i]);
+        for(int i=0; i<n; i++){
+            end = max(end,piles[i]);
         }
         
-
         while(start <= end) {
             int mid = start + (end - start) / 2;
-
+            
             long long time = 0;
-
             for(int i = 0; i < n; i++) {
                 time += piles[i] / mid;
 
