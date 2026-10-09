@@ -20,6 +20,7 @@ This is my first git repository.
 | [0704-binary-search](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1572-matrix-diagonal-sum) |
@@ -160,6 +161,7 @@ This is my first git repository.
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1539-kth-missing-positive-number) |
 ## Greedy
 |  |
