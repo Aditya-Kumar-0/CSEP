@@ -78,6 +78,7 @@ This is my first git repository.
 | [0203-remove-linked-list-elements](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +138,7 @@ This is my first git repository.
 | [0258-add-digits](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -242,4 +244,12 @@ This is my first git repository.
 | [0101-symmetric-tree](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0111-minimum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
