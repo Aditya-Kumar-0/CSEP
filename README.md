@@ -18,6 +18,7 @@ This is my first git repository.
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0704-binary-search) |
