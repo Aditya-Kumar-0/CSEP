@@ -9,6 +9,7 @@ This is my first git repository.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0136-single-number) |
@@ -140,6 +141,7 @@ This is my first git repository.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0258-add-digits) |
@@ -211,6 +213,7 @@ This is my first git repository.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0566-reshape-the-matrix) |
