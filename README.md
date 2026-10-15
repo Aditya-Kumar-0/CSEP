@@ -12,6 +12,7 @@ This is my first git repository.
 | [0048-rotate-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0169-majority-element) |
@@ -261,6 +262,7 @@ This is my first git repository.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
