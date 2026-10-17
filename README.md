@@ -32,6 +32,7 @@ This is my first git repository.
 | [1539-kth-missing-positive-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ This is my first git repository.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -220,6 +222,7 @@ This is my first git repository.
 | [0566-reshape-the-matrix](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Aditya-Kumar-0/CSEP/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1572-matrix-diagonal-sum) |
+| [1901-find-a-peak-element-ii](https://github.com/Aditya-Kumar-0/CSEP/tree/master/1901-find-a-peak-element-ii) |
 ## Tree
 |  |
 | ------- |
